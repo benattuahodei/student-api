@@ -36,4 +36,4 @@ flask run
 This repo is created as an example to demonstrate backend + SQL + frontend fundamentals. Adapt and extend freely; if you borrow code from other repos, include attribution in this README.
 
 ## Contact
-Benjamin Attuah-Odei — benjaminattuahodei@gmail.com — GitHub: github.com/yourusername
+Benjamin Attuah-Odei — benjaminattuahodei@gmail.com 
